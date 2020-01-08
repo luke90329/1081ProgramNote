@@ -3,3 +3,4 @@ def factorial(a):
     for i in range(1,a+1):
         count *= i
     print(count)
+factorial(10)
