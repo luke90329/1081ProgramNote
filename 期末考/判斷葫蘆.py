@@ -5,5 +5,5 @@ def isFullhouse(a):
         print('yes')
     else:
         print('no')
-a = [x for x in input().split(" ")]
+a = [x for x in input().split()]
 isFullhouse(a)
