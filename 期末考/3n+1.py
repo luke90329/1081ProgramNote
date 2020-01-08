@@ -7,3 +7,5 @@ def f(n):
 			n = 3*n + 1
 		s.append(n)
 	print(len(s)+1) #記得加上原本的數字
+num = 10
+f(num)
